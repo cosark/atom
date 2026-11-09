@@ -132,6 +132,10 @@ with warm package caches, including setup, startup, sample and browser access.
 [setup guide](docs/getting_started/quick-start.md) and
 [measured first-use record](docs/demo/FIRST_USE_TEST_2026-11-01.md).
 
+## One-click deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Atom/)
+
 ## See what an employee can do
 
 | Workflow | What the recorded acceptance demonstrates |
